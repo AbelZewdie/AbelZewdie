@@ -16,6 +16,7 @@ I build resilient, multi-module microservices and robust data pipelines. My engi
 * Engineering automated synthetic data generation scripts in PySpark to seed complex, multi-table database environments.
 
 ## ⚡ Quick Facts
-* 🎓 Software Engineering at Western Governors University | App Dev Alumni, Year Up
+* 🎓 B.A. in Accounting & Finance | Software Engineering at WGU | App Dev Alumni, Year Up
+* 📊 Domain Edge: 1.5 years of professional auditing experience, bringing financial-grade precision and strict data integrity to complex backend pipelines.
 * ⌨️ Writing infrastructure on a Keychron K2 HE
 * 📫 Connect with me: [in/abelmzewdie](https://www.linkedin.com/in/abelmzewdie)
