@@ -18,4 +18,4 @@ I build resilient, multi-module microservices and robust data pipelines. My engi
 ## ⚡ Quick Facts
 * 🎓 Software Engineering at Western Governors University | App Dev Alumni, Year Up
 * ⌨️ Writing infrastructure on a Keychron K2 HE
-* 📫 Connect with me: [Insert LinkedIn URL]
+* 📫 Connect with me: [in/abelmzewdie](https://www.linkedin.com/in/abelmzewdie)
