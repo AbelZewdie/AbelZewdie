@@ -4,7 +4,7 @@
 I build resilient, multi-module microservices and robust data pipelines. My engineering focus is on strict architectural boundaries, secure authentication flows, and high-performance data processing.
 
 ## 🏗️ Core Stack & Architecture
-* **Backend Systems:** <img src="https://img.shields.io/badge/Java-%23f89820?style=flat&logo=openjdk&logoColor=white" height="18">, ![Spring Boot](https://img.shields.io/badge/-%20-6DB33F?style=flat-square&logo=spring-boot&logoColor=white), Spring Cloud (Gateway, Eureka), GraphQL, REST.
+* **Backend Systems:** <img src="https://img.shields.io/badge/Java-%23f89820?style=flat&logo=openjdk&logoColor=white" height="18">, ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white), Spring Cloud (Gateway, Eureka), GraphQL, REST.
 * **Resilience & Security:** Resilience4j (Circuit Breakers), Keycloak.
 * **Data Engineering:** PySpark, Azure Synapse, automated ETL pipelines.
 * **Databases:** PostgreSQL, MongoDB, MySQL.
