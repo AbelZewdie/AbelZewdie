@@ -4,23 +4,11 @@
 I build resilient, multi-module microservices and robust data pipelines. My engineering focus is on strict architectural boundaries, secure authentication flows, and high-performance data processing.
 
 ## 🏗️ Core Stack & Architecture
-* **Backend Systems:** <img src="https://img.shields.io/badge/Java-%23f89820?style=flat&logo=openjdk&logoColor=white" height="18">, ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white), Spring Cloud (Gateway, Eureka), GraphQL, REST.
+* **Backend Systems:** <img src="https://img.shields.io/badge/Java-%23f89820?style=flat-square&logo=openjdk&logoColor=white" height="18" style="border-radius: 4px;">, <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="18" style="border-radius: 4px;">, <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="18" style="border-radius: 4px;">, <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="18" style="border-radius: 4px;">, <img src="https://img.shields.io/badge/REST-005571?style=flat-square&logo=postman&logoColor=white" height="18" style="border-radius: 4px;">.
 * **Resilience & Security:** Resilience4j (Circuit Breakers), Keycloak.
 * **Data Engineering:** PySpark, Azure Synapse, automated ETL pipelines.
 * **Databases:** PostgreSQL, MongoDB, MySQL.
 * **Infrastructure:** Docker, Microservices deployment.
-
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white&borderRadius=20)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=postman&logoColor=white)
-
-<img src="https://img.shields.io/badge/Java-%23f89820?style=flat-square&logo=openjdk&logoColor=white" height="18" style="border-radius: 4px;">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="18" style="border-radius: 4px;">
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="18" style="border-radius: 4px;">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="18" style="border-radius: 4px;">
-<img src="https://img.shields.io/badge/REST-005571?style=flat-square&logo=postman&logoColor=white" height="18" style="border-radius: 4px;">
 
 ## 🚀 Active Engineering Focus
 * Architecting a multi-module Java backend featuring Eureka service discovery and Spring Cloud Gateway routing.
