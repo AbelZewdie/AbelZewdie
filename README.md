@@ -1,5 +1,5 @@
 # Abel Zewdie
-### Backend Software Engineer | Distributed Systems & API Architecture
+### Backend Software Engineer | Distributed Systems & API Architectures
 
 I build resilient, multi-module microservices and robust data pipelines. My engineering focus is on strict architectural boundaries, secure authentication flows, and high-performance data processing.
 
